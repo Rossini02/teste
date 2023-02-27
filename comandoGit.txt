@@ -1,0 +1,4 @@
+//iniciar um  controle de versoes 
+git init
+
+//verificar atualizacoes
